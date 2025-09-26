@@ -426,7 +426,7 @@ body {
 
 @media screen and (max-width: 428px) {
   #CTA {
-    padding: 6vw 4vw;
+    padding: 32px 16px;
     position: relative;
   }
   #CTA .circle {
@@ -434,7 +434,7 @@ body {
     height: 18.75vw;
     position: absolute;
     top: 4.5vw;
-    transform: translateX(50vw);
+    transform: translateX(-50vw);
   }
   #CTA .circle .circle-text {
     font-size: 6.25vw;
