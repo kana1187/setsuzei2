@@ -310,6 +310,7 @@ body {
   }
   #first-view .theme-copy .treat {
     width: 3vw;
+    height: auto;
   }
   #first-view .sub-copy-first {
     margin-bottom: 4vw;
