@@ -193,7 +193,7 @@ body {
 }
 #first-view .theme-copy .treat {
   width: 2.5vw;
-  height: fit-content;
+  height: auto;
 }
 #first-view .theme-copy .treat-right {
   transform: scaleX(-1);
