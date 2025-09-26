@@ -492,7 +492,7 @@ body {
 }
 #intro .intro-item .check-box {
   width: 22px;
-  height: 19px;
+  height: auto;
   margin-top: 4px;
 }
 #intro .intro-item .intro-text {
