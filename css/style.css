@@ -492,8 +492,11 @@ body {
 }
 #intro .intro-item .check-box {
   width: 22px;
-  height: auto;
+  height: 19px;
   margin-top: 4px;
+  transform: translateZ(0); /* または transform: translate3d(0, 0, 0); */
+  -webkit-backface-visibility: hidden; /* Safari向けの最適化 */
+  will-change: transform; /* レンダリング最適化をブラウザに伝える */
 }
 #intro .intro-item .intro-text {
   font-size: 22px;
