@@ -434,7 +434,7 @@ body {
     height: 18.75vw;
     position: absolute;
     top: 4.5vw;
-    transform: translateX(-47.5vw);
+    transform: translateX(50vw);
   }
   #CTA .circle .circle-text {
     font-size: 6.25vw;
