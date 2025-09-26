@@ -426,7 +426,7 @@ body {
 
 @media screen and (max-width: 428px) {
   #CTA {
-    padding: 32px 16px;
+    padding: 32px 8px;
     position: relative;
   }
   #CTA .circle {
